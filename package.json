@@ -1,0 +1,21 @@
+{
+  "name": "amaster-theme",
+  "displayName": "amaster-theme",
+  "description": "amaster dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "amaster-dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/amaster-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
