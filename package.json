@@ -4,6 +4,10 @@
   "description": "amaster dark theme",
   "version": "0.0.1",
   "publisher": "AmasterJT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmasterJT/amaster-theme"
+  },
   "engines": {
     "vscode": "^1.93.0"
   },
