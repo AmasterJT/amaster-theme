@@ -1,27 +1,24 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/amaster-logo.png" style="width:40%;"/>
+
 # Amaster Theme
 
-A minimal theme for VS Code that comes in dark and light.
+A minimal theme for VS Code that comes in dark.
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/amasterjt.amaster-theme)
 
-![preview-dark](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-dark.png)
-
-![preview-light](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-light.png)
+<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/theme-preview.png" alt="preview-dark" width="90%">
 
 </div>
 
 ## Installation
 
-1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
+1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=amasterjt.amaster-theme)
 2. Go to `File > Preferences > Color Theme`
-3. Select `Min Dark` or `Min Light`
+3. Select `amaster theme`
 
 Alternatively install via CLI:
 
 ```
-code --install-extension miguelsolorio.min-theme
+code --install-extension amasterjt.amaster-theme
 ```
-
-## License
-
-[MIT License](LICENSE)
