@@ -2,7 +2,7 @@
   "name": "amaster-theme",
   "displayName": "amaster-theme",
   "description": "amaster dark theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "AmasterJT",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
       {
         "label": "amaster theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/amaster-theme-color-theme.json"
+        "path": "./themes/amaster-dark-theme-color-theme.json"
       }
     ]
   },
