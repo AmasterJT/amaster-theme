@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/amaster-logo.png" style="width:20%;"/>
+<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/amaster-logo.png" width="100"/>
 
 # Amaster Theme
 
@@ -7,7 +7,7 @@ A minimal theme for VS Code that comes in dark.
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/amasterjt.amaster-theme)
 
-<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/theme-preview.png" alt="preview-dark" width="90%">
+<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/theme-preview.png" alt="preview-dark" width=450>
 
 </div>
 
