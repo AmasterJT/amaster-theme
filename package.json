@@ -3,6 +3,7 @@
   "displayName": "amaster-theme",
   "description": "amaster dark theme",
   "version": "0.0.1",
+  "publisher": "AmasterJT",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -12,10 +13,11 @@
   "contributes": {
     "themes": [
       {
-        "label": "amaster-dark-theme",
+        "label": "amaster theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/amaster-dark-theme-color-theme.json"
+        "path": "./themes/amaster-theme-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "LICENSE.txt"
 }
