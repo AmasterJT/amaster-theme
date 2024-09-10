@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/amaster-logo.png" style="width:40%;"/>
+<img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/amaster-logo.png" style="width:20%;"/>
 
 # Amaster Theme
 
