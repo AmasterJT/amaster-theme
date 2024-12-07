@@ -1,3 +1,4 @@
+<!--@formatter:off-->
 <div align="center">
 <img src="https://raw.githubusercontent.com/AmasterJT/amaster-theme/master/amaster-logo.png" width="100"/>
 
